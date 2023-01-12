@@ -18,3 +18,6 @@ Author: Mhitaryan Sergey Armenovich
 ### [Лабораторная работа №2 "Развертывание веб сервиса в Minikube, доступ к веб интерфейсу сервиса. Мониторинг сервиса."](labs/lab2/report.md)
 ### [Лабораторная работа №3 "Сертификаты и "секреты" в Minikube, безопасное хранение данных."](labs/lab3/report.md)
 ### [Лабораторная работа №4 "Сети связи в Minikube, CNI и CoreDNS"](labs/lab4/report.md)
+
+# Article: 
+https://medium.com/@mhitaryan66/как-netlify-помогает-запустить-ваш-сайт-доступный-по-всему-миру-d886d6a169d6
